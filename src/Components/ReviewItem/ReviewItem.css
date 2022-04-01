@@ -1,0 +1,30 @@
+.review-item{
+    display: flex;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin-top: 21px;
+}
+.review-item img{
+    width: 91px;
+}
+.review-item-details p{
+    margin: 0;
+  
+}
+.review-item-details-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.delete-btn-container{
+    display: flex;
+    align-items: center;
+}
+.delete-btn{
+    border: 0;
+    background-color: rgba(235, 87, 87, 0.3);
+}
+.delete-font{
+  color: #EB5757;
+
+}
